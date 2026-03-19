@@ -1,0 +1,25 @@
+```
+# Build artifacts
+**/bin/
+**/obj/
+
+# Tests
+tests/
+
+# Git
+.git/
+.gitignore
+
+# Configs locales
+**/appsettings.Development.json
+.env
+.env.local
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# README y docs
+README.md
+LICENSE
