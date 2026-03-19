@@ -3,7 +3,7 @@
 > AI-powered REST API that analyzes resumes and provides actionable feedback for job seekers.  
 > Built with .NET 9, Clean Architecture, and OpenAI GPT-4o.
 
-![Build](https://github.com/YOUR_USERNAME/SmartCVAnalyzer/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/oscardaniel028/SmartCVAnalyzer/actions/workflows/build.yml/badge.svg)
 ![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet)
 ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker)
 ![License](https://img.shields.io/badge/license-MIT-green)
